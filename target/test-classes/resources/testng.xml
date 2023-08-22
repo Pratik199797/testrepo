@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+	<test name="MyTest">
+		<classes>
+			<!-- class name = "Test.Ndrtests" -->
+			<class name = "Test.ProcessOrderTests"/>
+			<!-- Add more test classes as needed -->
+		</classes>
+	</test>
+</suite>
